@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-VznTowerBackendApplication<vzn_tower_backend>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "practice.vzn_tower_backend.VznTowerBackendApplication",
+            "projectName": "vzn_tower_backend",
+            "args": ""
+        }
+    ]
+}
