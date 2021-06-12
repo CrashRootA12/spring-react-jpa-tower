@@ -1,4 +1,4 @@
-package practice.vzn_tower_backend;
+package practice.tower_backend;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

@@ -1,4 +1,4 @@
-package practice.vzn_tower_backend;
+package practice.tower_backend;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
