@@ -9,6 +9,16 @@
             "mainClass": "practice.vzn_tower_backend.VznTowerBackendApplication",
             "projectName": "vzn_tower_backend",
             "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-TowerBackendApplication<vzn_tower_backend>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "practice.tower_backend.TowerBackendApplication",
+            "projectName": "vzn_tower_backend",
+            "args": ""
         }
     ]
 }
